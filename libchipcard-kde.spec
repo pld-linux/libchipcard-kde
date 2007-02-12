@@ -1,5 +1,5 @@
 Summary:	KDE tools for LibChipCard
-Summary(pl):	Narzêdzia KDE dla LibChipCard
+Summary(pl.UTF-8):   NarzÄ™dzia KDE dla LibChipCard
 Name:		libchipcard-kde
 Version:	0.9
 Release:	1
@@ -20,8 +20,8 @@ This package contains the KDE tools for LibChipCard. The most
 important tool is KCardSetup, the graphical setup tool for
 LibChipCard.
 
-%description -l pl
-Ten pakiet zawiera narzêdzia KDE dla LibChipCard. Najwa¿niejsze to
+%description -l pl.UTF-8
+Ten pakiet zawiera narzÄ™dzia KDE dla LibChipCard. NajwaÅ¼niejsze to
 KCardSetup, graficzny konfigurator do LibChipCard.
 
 %prep
