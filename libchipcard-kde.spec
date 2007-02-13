@@ -1,5 +1,5 @@
 Summary:	KDE tools for LibChipCard
-Summary(pl.UTF-8):   Narzędzia KDE dla LibChipCard
+Summary(pl.UTF-8):	Narzędzia KDE dla LibChipCard
 Name:		libchipcard-kde
 Version:	0.9
 Release:	1
